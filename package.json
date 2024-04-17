@@ -1,0 +1,28 @@
+{
+  "name": "first-server",
+  "version": "1.0.0",
+  "description": "primer servidor",
+  "main": "index.js",
+  "type": "module",
+  "engines": {
+    "node": "20.12"
+  },
+  "scripts": {
+    "start": "node ./",
+    "dev": "nodemon ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "#"
+  },
+  "keywords": [
+    "node",
+    "pwpcI",
+    "itgam"
+  ],
+  "author": "@jorge",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
