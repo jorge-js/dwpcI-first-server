@@ -23,6 +23,7 @@
   "author": "@jorge",
   "license": "MIT",
   "devDependencies": {
+    "nodemo": "^1.0.0",
     "nodemon": "^3.1.0"
   }
 }
